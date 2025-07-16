@@ -1,6 +1,7 @@
 # Olá, me chamo Rodrigo
 
 Sou estudante e desenvolvedor backend apaixonado por arquitetura de sistemas e gestão de projetos. 
+
 Atuo na área desde 2020 e amo difundir conhecimento, prototipar novos sistemas e compartilhar aprendizados.
 
 ## Sobre mim
