@@ -4,23 +4,25 @@ Sou estudante e desenvolvedor backend apaixonado por arquitetura de sistemas e g
 
 Atuo na área desde 2020 e amo difundir conhecimento, prototipar novos sistemas e compartilhar aprendizados.
 
+## 🌐 Contato
+
 <div align="center">
   <a href="www.linkedin.com/in/rodrigo-mello-323041193" target="_blank">
-    <img src="./assets/linkedin.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="./assets/linkedin.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="mailto:rodrigo.mello.hw08@gmail.com">
-    <img src="./assets/gmail.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="./assets/gmail.svg" width="52" height="40" alt="gmail logo" />
   </a>
 </div>
 
-## Sobre mim
+## 🎓 Sobre mim
 
 - 🎓 Ciências da Computação -  Universidade do Vale do Rio dos Sinos
 - 💻 Desenvolvedor Backend Java
 - 🏢 Cwi Software
 - 🏦 Experiência: Sistemas bancários, aplicações de processamento em lote, cloud, microsserviços e mensageria
 
-## Stacks
+## 💻 Stacks
 
 <div align="center">
   <img src="./assets/java.svg" height="40" alt="java logo"  />
